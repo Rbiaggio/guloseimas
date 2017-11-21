@@ -1,0 +1,108 @@
+@CHARSET "ISO-8859-1";
+		<style type="text/css">
+			#upload_link{ 
+				text-decoration:none; 
+			} 
+			#upload{ 
+				display:none 
+			} 
+			body{
+				background-color:white;
+				font-family: Arial;
+				font-size:15px;
+			}
+			#texto_fazer_login{
+				margin-left:510px;
+				margin-top:170px;
+				color:#545454;
+			}
+			#div_logo_down{
+				margin-left:585px;
+				margin-top:10px;				
+			}
+			#div_login{	
+				background-color: #f7f7f7;
+				padding: 20px 25px 30px;
+				margin-left:464px;
+				width: 304px;
+				-moz-border-radius: 2px;
+				-webkit-border-radius: 2px;
+				border-radius: 2px;
+				-moz-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+				-webkit-box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+				box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
+			}
+			#div_foto_user{
+				margin-left:88px;
+				margin-top:-20px;
+			}
+			#div_textbox_usuario{
+				margin-left:30px;
+				margin-top:20px;
+				width:130px;
+				height:130px;
+			}
+			#div_textbox_senha{
+				margin-left:30px;
+				margin-top:-110px;
+				width:130px;
+				height:130px;
+			}
+			#div_button_login{
+				margin-left:30px;
+				margin-top:-80px;
+			}
+			.textbox{
+				box-shadow: 0px 1px 1px;
+			}	
+			.ui-button{
+				background: #498bf4;
+				color:white;
+				font-weight:bold;
+				border: 1px solid #2f7cf8;
+			}
+
+			.ui-corner-all{
+				background: #498bf4;
+				color:white;
+				font-size:12px;
+				font-weight:bold;
+				border: 1px solid #2f7cf8;
+			}
+			.ui-widget{
+				background: #498bf4;
+				color:white;
+				font-weight:bold;
+				border: 1px solid #2f7cf8;
+			}
+			ui-button a:hover{
+				color: #498bf4;
+				text-decoration: none;
+			}
+			.socialnetwork#socialnetwork-1 .texto {
+    			font-size: 17px;
+    			color: #000000
+    			}
+    		.socialnetwork.em-linha .texto {
+    		display: none
+    		}
+    		
+    		.socialnetwork#socialnetwork-1 .items-wrap {
+			margin-left: -15px;
+    		}
+			.top-social{
+				margin-top:-15px;
+				margin-left:-8px;
+				background: #633524;
+				height: 20px;
+				width: 1600px;
+				color: white;
+			}
+			.itemsocial{
+				margin-top:0px;
+				margin-left:200px;
+				height: 20px;
+				width: 20px;
+			}
+		</style>
+		<!--Fim TAG style !-->		
